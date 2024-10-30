@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Field Data Icons\n"
+"POT-Creation-Date: 2018-07-17 10:30+0200\n"
+"PO-Revision-Date: 2018-07-17 10:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ecpm-cfd.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ecpm-cfd.php:115
+msgid ""
+"You have installed a new version of Custom Field Data Icons. Please go to "
+"plugin settings page and click SAVE SETTINGS."
+msgstr ""
+
+#: ecpm-cfd.php:362
+msgid "Settings saved."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: ecpm-cfd.php:373
+msgid "Custom Field Data Icons"
+msgstr ""
+
+#: ecpm-cfd.php:384
+msgid "Horizontal position"
+msgstr ""
+
+#: ecpm-cfd.php:387
+msgid "Left"
+msgstr ""
+
+#: ecpm-cfd.php:388
+msgid "Right"
+msgstr ""
+
+#: ecpm-cfd.php:391
+msgid "Select where to position data icons"
+msgstr ""
+
+#: ecpm-cfd.php:397
+msgid "Max icons to show"
+msgstr ""
+
+#: ecpm-cfd.php:409
+msgid "Maximum number of icons to show"
+msgstr ""
+
+#: ecpm-cfd.php:415
+msgid "Sorting"
+msgstr ""
+
+#: ecpm-cfd.php:419
+msgid "No sorting"
+msgstr ""
+
+#: ecpm-cfd.php:420
+msgid "By numbers"
+msgstr ""
+
+#: ecpm-cfd.php:421
+msgid "Random"
+msgstr ""
+
+#: ecpm-cfd.php:425
+msgid "Would you like the icons to be sorted?"
+msgstr ""
+
+#: ecpm-cfd.php:431
+msgid "Opacity"
+msgstr ""
+
+#: ecpm-cfd.php:437
+msgid "Transparency for the shown data and icons"
+msgstr ""
+
+#: ecpm-cfd.php:443
+msgid "Line side margin"
+msgstr ""
+
+#: ecpm-cfd.php:449
+msgid "Specify left or right line margin"
+msgstr ""
+
+#: ecpm-cfd.php:456
+msgid "Media image prefix"
+msgstr ""
+
+#: ecpm-cfd.php:462
+msgid "Only images with this prefix will be shown in the list"
+msgstr ""
+
+#: ecpm-cfd.php:468
+msgid "Fields to show:"
+msgstr ""
+
+#: ecpm-cfd.php:474
+msgid "Number of fields to show below"
+msgstr ""
+
+#: ecpm-cfd.php:483
+msgid "Enable"
+msgstr ""
+
+#: ecpm-cfd.php:484
+msgid "Field"
+msgstr ""
+
+#: ecpm-cfd.php:485
+msgid "Plugin icon"
+msgstr ""
+
+#: ecpm-cfd.php:486
+msgid "Media icon"
+msgstr ""
+
+#: ecpm-cfd.php:499
+msgid "-- No field --"
+msgstr ""
+
+#: ecpm-cfd.php:513 ecpm-cfd.php:536
+msgid "-- No image --"
+msgstr ""
+
+#: ecpm-cfd.php:568
+msgid "Save settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.easycpmods.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Custom Field Data Icons is a lightweight plugin that will display custom "
+"field data with icons on front page. It requires Classipress theme to be "
+"installed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "EasyCPMods"
+msgstr ""

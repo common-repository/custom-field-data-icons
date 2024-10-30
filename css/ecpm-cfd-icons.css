@@ -1,0 +1,215 @@
+.cfd-sprite-img {
+    background-image: url(../images/cfd-icons.png);
+}    
+
+.cfd-sprite {
+    background-repeat: no-repeat;
+    margin:0 5px 0 12px;
+    padding: 0px 0px 2px 16px;
+    height: 16px;
+    width: 16px;
+}
+
+.cfd-sprite-first {
+    background-repeat: no-repeat;
+    margin:0 5px 0 0px;
+    padding: 0px 0px 2px 16px;
+    height: 16px;
+    width: 16px;
+}
+
+.cfd_area {
+    background-position: -5px -5px;
+}
+
+.cfd_backup {
+    background-position: -31px -5px;
+}
+
+.cfd_beer {
+    background-position: -57px -5px;
+}
+
+.cfd_bg_color {
+    background-position: -83px -5px;
+}
+
+.cfd_bottle {
+    background-position: -109px -5px;
+}
+
+.cfd_camera {
+    background-position: -135px -5px;
+}
+
+.cfd_car {
+    background-position: -161px -5px;
+}
+
+.cfd_cloud {
+    background-position: -5px -31px;
+}
+
+.cfd_cloud_2 {
+    background-position: -31px -31px;
+}
+
+.cfd_colour {
+    background-position: -57px -31px;
+}
+
+.cfd_currency {
+    background-position: -83px -31px;
+}
+
+.cfd_distance {
+    background-position: -109px -31px;
+}
+
+.cfd_dnk {
+    background-position: -135px -31px;
+}
+
+.cfd_ethernet {
+    background-position: -161px -31px;
+}
+
+.cfd_ethernet_cable {
+    background-position: -5px -57px;
+}
+
+.cfd_ext_memory_card {
+    background-position: -31px -57px;
+}
+
+.cfd_folder {
+    background-position: -57px -57px;
+}
+
+.cfd_fuel_1 {
+    background-position: -83px -57px;
+}
+
+.cfd_fuel_2 {
+    background-position: -109px -57px;
+}
+
+.cfd_geolocation {
+    background-position: -135px -57px;
+}
+
+.cfd_id_card_1 {
+    background-position: -161px -57px;
+}
+
+.cfd_id_card_2 {
+    background-position: -5px -83px;
+}
+
+.cfd_juice {
+    background-position: -31px -83px;
+}
+
+.cfd_keyboard {
+    background-position: -57px -83px;
+}
+
+.cfd_length_1 {
+    background-position: -83px -83px;
+}
+
+.cfd_length_2 {
+    background-position: -109px -83px;
+}
+
+.cfd_material {
+    background-position: -135px -83px;
+}
+
+.cfd_memory_card_2 {
+    background-position: -161px -83px;
+}
+
+.cfd_memory_icon {
+    background-position: -5px -109px;
+}
+
+.cfd_memory_module {
+    background-position: -31px -109px;
+}
+
+.cfd_mobile {
+    background-position: -57px -109px;
+}
+
+.cfd_monitor {
+    background-position: -83px -109px;
+}
+
+.cfd_mouse {
+    background-position: -109px -109px;
+}
+
+.cfd_pc {
+    background-position: -135px -109px;
+}
+
+.cfd_percent {
+    background-position: -161px -109px;
+}
+
+.cfd_phone_1 {
+    background-position: -5px -135px;
+}
+
+.cfd_phone_2 {
+    background-position: -31px -135px;
+}
+
+.cfd_screen_size_1 {
+    background-position: -57px -135px;
+}
+
+.cfd_screen_size_2 {
+    background-position: -83px -135px;
+}
+
+.cfd_sd-memory_card {
+    background-position: -109px -135px;
+}
+
+.cfd_size {
+    background-position: -135px -135px;
+}
+
+.cfd_tag {
+    background-position: -161px -135px;
+}
+
+.cfd_timer {
+    background-position: -5px -161px;
+}
+
+.cfd_trash {
+    background-position: -31px -161px;
+}
+
+.cfd_truck {
+    background-position: -57px -161px;
+}
+
+.cfd_user {
+    background-position: -83px -161px;
+}
+
+.cfd_volume {
+    background-position: -109px -161px;
+}
+
+.cfd_weight {
+    background-position: -135px -161px;
+}
+
+.cfd_year {
+    background-position: -161px -161px;
+}
